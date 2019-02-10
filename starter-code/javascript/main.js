@@ -10,7 +10,7 @@ var milUni      = document.getElementById('milUni');
 
 
 function printTime() {
-
+var s
 }
 
 function printMinutes() {
